@@ -1,2 +1,2 @@
 # PracticalTest02
-model colocviu 2
+Cojocaru Michel, 343C1
